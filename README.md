@@ -20,4 +20,7 @@ For this project, I tackled a 3D image‑segmentation challenge:
 6. **Inference & Visualization**  
    After training on patches, I stitched predictions back into full 3D volumes to generate segmentation masks. I created overlay visualizations to compare my masks against ground‑truth.
 
-   
+---
+
+**P.S.**
+The code files in this repository were developed as part of the AI for Medical Diagnosis course on Coursera. All work was implemented and tested using the course’s provided backend environment.
